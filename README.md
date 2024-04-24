@@ -1,6 +1,4 @@
 - 👋 Hi, I’m Noa Roggendorff
 - 👀 I’m interested in Machine Learning, Programming, Music, Anime, Cartoons
 - 🌱 I’m currently learning Stable Diffusion
-- 📫 My email is `noa@tatl.tv`
 - 😄 Any pronouns are fine!
-- ⚡ Fun fact: I know Waikuteru
