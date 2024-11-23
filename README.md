@@ -1,4 +1,1 @@
-- 👋 Hi, I’m Noa Roggendorff
-- 👀 I’m interested in Machine Learning, Programming, Music, Anime, Cartoons
-- 🌱 I’m currently learning Stable Diffusion
-- 😄 Any pronouns are fine!
+None
